@@ -2,22 +2,6 @@
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -25,19 +9,16 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://frosty-fermi-147c81.netlify.app/)
+- Live Site URL: https://frosty-fermi-147c81.netlify.app/
 
 ## My process
 
 Started marking up the html.
-THe first step was to make a container and center it.
-I found out the main thing is following is setting min-height to 100vh. That way i am able to center the container. Used body as flex column direction, align and justify center.
+The first step was to make a container and center it.
+I found out the main thing is setting min-height to 100vh. That way i am able to center the container. Used body as flex column direction, align and justify center.
 
 Then I separated the text into 3 sections based on category and went from there. Styled text, styled button, put in the margins.
 
